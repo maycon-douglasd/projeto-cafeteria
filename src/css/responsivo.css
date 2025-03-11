@@ -1,0 +1,216 @@
+@media (max-width: 768px) {
+    .topo {
+        height: 8vh;
+    }
+
+    .topo img {
+        width: 80px;
+        left: 10%;
+    }
+
+    .topo div {
+        top: 25%;
+        right: 10%;
+    }
+
+    .container-parallax1 h1 {
+        font-size: 60px;
+    }
+
+    .container-parallax2 h3, .container-parallax3 h3 {
+        width: 90%;
+        font-size: 20px;
+        padding: 15px;
+    }
+
+    .container-parallax4 h2 {
+        font-size: 20px;
+    }
+
+    .container-contatos {
+        width: 90%;
+        padding: 10px;
+        bottom: 5%;
+    }
+
+    .container-texto {
+        padding: 40px 0;
+    }
+
+    .container-texto h2 {
+        font-size: 20px;
+    }
+
+    .container-parallax5 h2 {
+        font-size: 24px;
+    }
+
+    .lista-horarios {
+        width: 90%;
+        font-size: 14px;
+    }
+
+    .container-rodape {
+        padding: 10px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .topo {
+        height: 8vh;
+    }
+
+    .topo img {
+        width: 60px;
+        left: 5%;
+    }
+
+    .topo div {
+        top: 20%;
+        right: 5%;
+    }
+
+    .container-parallax1 h1 {
+        font-size: 40px;
+    }
+
+    .container-parallax2 h3, .container-parallax3 h3 {
+        width: 480px;
+        font-size: 18px;
+        padding: 10px;
+    }
+
+    .container-parallax4 h2 {
+        font-size: 18px;
+    }
+
+    .container-contatos {
+        width: 90%;
+        bottom: 5%;
+    }
+
+    .container-texto {
+        padding: 30px 0;
+    }
+
+    .container-texto h2 {
+        font-size: 18px;
+    }
+
+    .container-texto p {
+        font-size: 14px;
+        padding: 0px 10px;
+    }
+
+    .container-parallax5 h2 {
+        font-size: 20px;
+    }
+
+    .lista-horarios {
+        font-size: 12px;
+    }
+
+    .container-rodape {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+
+    .container-rodape a {
+        width: 50px;
+        height: 50px;
+        bottom: 60px;
+        right: 20px;
+    }
+
+    .lista-horarios li h3 {
+        font-size: 14px;
+    }
+
+    .lista-horarios li p {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 393px) {
+    .topo {
+        height: 8vh;
+    }
+
+    .topo img {
+        width: 50px;
+        left: 5%;
+    }
+
+    .topo div {
+        top: 18%;
+        right: 5%;
+    }
+
+    .topo div a {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+
+    .container-parallax1 h1 {
+        font-size: 35px;
+        top: 40%;
+    }
+
+    .container-parallax2 h3, .container-parallax3 h3 {
+        width: 80%;
+        font-size: 18px;
+        padding: 10px;
+    }
+
+    .container-parallax4 h2 {
+        font-size: 18px;
+        padding: 5px;
+    }
+
+    .container-contatos {
+        width: 90%;
+        bottom: 2%;
+    }
+
+    .container-texto {
+        padding: 30px 0;
+        font-size: 14px;
+    }
+
+    .container-texto h2 {
+        font-size: 18px;
+    }
+
+    .container-texto p {
+        font-size: 14px;
+        padding: 0px 10px;
+    }
+
+    .container-parallax5 h2 {
+        font-size: 20px;
+    }
+
+    .lista-horarios {
+        font-size: 12px;
+    }
+
+    .container-rodape {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+
+    .container-rodape a {
+        width: 50px;
+        height: 50px;
+        bottom: 60px;
+        right: 20px;
+    }
+
+    .lista-horarios li h3 {
+        font-size: 14px;
+    }
+
+    .lista-horarios li p {
+        font-size: 12px;
+    }
+}
